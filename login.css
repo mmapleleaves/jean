@@ -1,0 +1,4 @@
+fieldset {display:block;width:300px;margin:200px auto;padding:10px;border:2px solid #000000;}
+fieldset input {margin:5px;}
+fieldset>input {float:right;margin:5px 10px;}
+label {display:block;margin:20px;}
